@@ -1,0 +1,12 @@
+{
+  "name": "schemy-child-settings",
+  "version": "1.0.0",
+  "description": "Allow using settings in child schemas without creating a Schemy instance separately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["schemy","json","validation","schema","node","plugin"],
+  "author": "Alan Berdinelli",
+  "license": "MIT"
+}
